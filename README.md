@@ -14,6 +14,7 @@
 
 # Notificación de Préstamo
  Según el tipo de cliente, el usuario podrá visualizar una tarjeta "tienes un préstamo disponible" acompañado con el monto máximo preaprobado que le corresponda.
+ 
  ![image](https://user-images.githubusercontent.com/105322348/188300983-55378d85-5f2c-4345-98ea-abc52aab969d.png)
 
 # Página para Pedir un Préstamo
