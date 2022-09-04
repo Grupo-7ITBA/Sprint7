@@ -48,3 +48,8 @@
  Los directorios de **static** y de **templates** están organizados según su app. La app *cuentas* tiene el template del *dashboard*; la app *login* tiene el template para iniciar sesión; la app *homepage* tiene los templates relacionados al inicio, como el *home*, *dolar* y el *navbar*. Por su parte, la app de *prestamos* tiene los templates para sacar el *prestamo* y del *prestamo_sacado*.
  
  
+ # 404
+  Por último agregamos una página de **error 404** para algunos redirect de páginas no existentes.
+  
+  ![image](https://user-images.githubusercontent.com/105322348/188302752-187fd820-a07a-4c01-9c15-49bc40624a58.png)
+
